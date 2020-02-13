@@ -36,6 +36,10 @@ body {
   margin: 0;
 }
 
+nav {
+  padding: 0;
+}
+
 .current {
   background-color: #0074d9;
   color: #fff;
@@ -46,7 +50,7 @@ a {
   color: #0074d9;
 }
 
-nav h1 {
+nav, h1 {
   text-align: center;
 }
 
